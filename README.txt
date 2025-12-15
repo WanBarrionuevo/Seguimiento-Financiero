@@ -19,4 +19,12 @@ El dashboard completo, que permite una navegación interactiva y el detalle de l
 * Informe de Seguimiento Financiero (pdf)
 * Informe de Seguimiento Financiero (pptx.)
 
+⚙️ Herramientas y Tecnologías Utilizadas
+
+* Power BI: Herramienta principal utilizada para modelado, ETL (Power Query / M Language) y visualización.
+* DAX: Lenguaje utilizado para crear las métricas, cálculos avanzados y medidas de tiempo de inteligencia (Time Intelligence).
+* Power Query: Utilizado para la transformación y limpieza de los datos de origen.
+* GitHub: Control de versiones del proyecto.
+
+
 Elaborado por: Wanda Barrionuevo, Analista de Datos.
